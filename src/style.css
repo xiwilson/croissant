@@ -17,8 +17,8 @@ footer {
 a {
   color: rgb(249, 46, 141);
 }
-photo {
-  max-width: 100%;
+.golden {
+  max-width: 40%;
   border-radius: 10px;
   display: block;
   margin: 30px auto;
